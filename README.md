@@ -1,8 +1,9 @@
 # Cocoa
 This is an example demonstrating my interest :
 History of Cocoa
-Botanical names
-Varieties / Hybride
+Botanical name
+characteristics of cocoa 
+Varieties 
 How long does it take for a cocoa tree to bear fruit
 how much cocoa will grow on one acre?
 what is the planting distance for cocoa?
